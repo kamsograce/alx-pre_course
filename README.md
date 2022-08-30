@@ -1,1 +1,1 @@
-My first readme as a fullstsck developer
+My first readme as a fullstack developer
